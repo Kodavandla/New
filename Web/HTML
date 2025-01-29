@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+       body{
+        background-image: url();
+        background-repeat:no-repeat;
+        background-size:cover ;
+       }
+
+       footer{
+        text-align: center;
+        font-size: 200px;
+        background-color: pink;
+       }
+
+       .qw{
+        color: palevioletred;
+        position: relative;
+        top: 110px;
+        text-align:center;
+       }
+
+       .q{
+        height:500px;
+        background-color: aqua;
+       }
+
+           
+            
+           
+        
+    </style>
+</head>
+<body>
+    
+    <header>
+        <section class="q" >
+        <nav>
+        <h1 style="color: brown;text-align: center; font-size: 50px; position: relative; top:100px;" >My Portfolio</h1>
+        <section class="qw" >
+        <a href=""><button>About</button></a>
+        <a href=""><button>Skills</button></a>
+        <a href=""><button>Projects</button></a>
+        <a href=""><button>Social Media</button></a> 
+        </section> 
+        </nav> 
+        </section>
+    </header>
+    <hr>
+    <main>
+        <section>
+            <section style="background-color: blueviolet; font-size: 25px; " >
+            <h1 style="text-align: center; color: blue; font-size: 50px; position: relative; top=100px;" >About</h1>
+            <iframe style="float: right; position: relative; right: 100px;top:100px;" width="560" height="315" src="https://www.youtube.com/embed/es4x5R-rV9s?si=7QPFsOepylYjtjhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <img style="height: 500px; position: relative;left: 100px; " src="Anil image.jpg" alt="Image"><br>
+            <p>I am Anil i am Graduated from MCA <br>
+              in Krishna Universityin Andhra Pradesh.<br>
+              and My Skills was HTML, CSS, JAVA SCRIPT, etc <br>
+              i had One Project of Music Recommandation System from my MCA.
+             </p>
+             </section>
+            
+        </section>
+        <hr>
+        <section style="font-size:1000px;" >
+
+        <section style="background-color: fuchsia; font-size: px; " >
+            <h1 style="color: blue; text-align: center; font-size: 50px; " >Skills</h1>
+            
+            <ul style="font-size: 50px;" >
+                <li>HTML</li>
+                <LI>CSS</LI>
+            </ul>
+        </section>
+        </section>
+        <hr>
+
+
+        <section style="font-size: 150px; background-color: rgb(151, 209, 36);" >
+            <h1 style="color: brown; text-align: center; font-size: 50px; " >Project</h1>
+            <p style="text-align: center;font-size: 100px; position: relative; bottom:30px;" >That was Music Recommandation System</p>
+        </section>
+
+    </main>
+    <hr>
+
+    <footer style="font-size: px;" >
+        <h1 style="font-size: 50px;" >Contact me Through with</h1>
+
+    <a style="position: relative; right: 150px; " href="https://www.linkdin.com/in/k-anil-2ab15b333"><img  style="height: 60px;" src="32.png" alt=""></a>
+    <a href="kodavandla.anil_qr.png"><img  style="height: 60px;" src="Instagram_logo_2022.svg.png" alt=""></a></a>
+    <a style="position: relative; left: 150px; href="https://www.facebook.com/61569627367947/posts/pfbid02BgpCpWfp5LoSeCm1Dc4iH5oZ53UN3RWnBQJpfQdaEBShcjZzMJ7b4JSJiwMg6BNdl/?app=fbl
+    "><img style="height:60px;" src="Facebook-Logosu.png" alt=""></a>
+    <a style="position: relative; left: 250px; href="https://github.com/Kodavandla/Kodavandla.git"><img style="height: 60px;" src="GitHub-logo.png" alt=""></a>
+    </footer>
+
+    
+</body>
+</html>
